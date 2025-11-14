@@ -1,0 +1,3 @@
+interface potable {
+    String getContent ();
+}

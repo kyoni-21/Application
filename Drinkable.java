@@ -1,0 +1,3 @@
+interface Drinkable {
+    int getNumGlasses ();
+}
